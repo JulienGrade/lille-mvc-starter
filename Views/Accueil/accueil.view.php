@@ -1,0 +1,1 @@
+<h1 class='text-blue-600 text-3xl text-center'>Accueil</h1>
